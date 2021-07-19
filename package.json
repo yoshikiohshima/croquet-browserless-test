@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "puppeteer": "^10.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "rollup": "^2.17.0",
+    "rollup-plugin-terser": "^7.0.0"
+  }
+}
